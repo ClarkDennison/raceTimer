@@ -1,0 +1,2 @@
+Follow these steps to generate a cert
+https://www.freecodecamp.org/news/how-to-set-up-https-locally-with-create-react-app/
